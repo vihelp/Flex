@@ -1,3 +1,21 @@
+/* FLEX UTILITY */
+/* display */
+.d-flex{
+    display: flex;
+}
+/* direction */
+.flex-row{
+    flex-direction: row;
+}
+.flex-row-reverse{
+    flex-direction: row-reverse;
+}
+.flex-column{
+    flex-direction: column;
+}
+.flex-column-reverse{
+    flex-direction: column-reverse;
+}
 /* wrap */
 .flex-wrap{
     flex-wrap: wrap;
